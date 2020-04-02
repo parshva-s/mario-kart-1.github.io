@@ -1,0 +1,36 @@
+body {
+    padding-top: 150px;
+    background-image: url('Media/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div {
+    padding: 50px 50px;
+    width: 1050px;
+    background: rgb(255,255,255);
+    margin: auto;}
+span {
+    border: 1.5px solid black;
+
+}
+img {
+    padding: 0px 50px;
+}
+output {
+    padding: 0px 91px;
+}
+h2 {
+    text-align: center;
+}
+hr {
+    width: 1050px;
+    border: 2px solid black;
+}
+p {
+    font-size: 20px;
+}
+button {
+    font-size: large;
+    font-variant: small-caps;
+    margin-bottom: 50px;
+}
